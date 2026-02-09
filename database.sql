@@ -1,0 +1,6 @@
+CREATE DATABASE training_center;
+
+CREATE TABLE courses (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ name VARCHAR(100)
+);
